@@ -1,0 +1,45 @@
+
+*{
+	margin: 0;
+
+
+}
+
+body{
+	
+}
+
+.calculator{
+    		width: 260px;
+    		margin: auto;
+    		margin-top: 120px;
+    		display: flex;
+    		flex-wrap: wrap;
+    		padding: 10px;
+    		box-sizing: border-box;
+    	}
+
+    	 input{
+    	 	flex-basis: 100%;
+    	 	max-width: 100%;
+    	 	font-size: 16px;
+    	 	background-color: #607d8b38;
+    	 	padding: 10px;
+    	 }
+
+    	 button{
+    	 	flex-basis: 20%;
+		    max-width: 20%;
+		    padding: 10px;
+		    box-sizing: border-box;
+		    background-color: #607d8b38;
+		    color: #555;
+		    font-size: 16px;
+    	 }
+
+    	 .equili{
+    	 	flex-basis: 100%;
+    	 	max-width: 100%;
+
+    	 }
+
